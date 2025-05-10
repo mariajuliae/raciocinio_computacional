@@ -1,8 +1,3 @@
-"""
-Maria Julia Elias (11100010563_20251_04)
-Atividade Formativa (S2)
-"""
-
 #criando um sistema CRUD
 
 #mostrando o menu conforme descriçao solicitada no exercício
